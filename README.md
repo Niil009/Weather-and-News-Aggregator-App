@@ -27,8 +27,13 @@ Responsive design with SafeAreaView for cross-device compatibility.
 
 
 No navigation headers for a clean look.
-Screenshots
+Screenshots![WhatsApp Image 2025-10-17 at 20 12 03_25753c0e](https://github.com/user-attachments/assets/8dde15f1-e04e-4bf3-9314-dcc5bfcb35e1)
+![WhatsApp Image 2025-10-17 at 20 12 04_57722f84](https://github.com/user-attachments/assets/d2330dbf-e443-456c-a126-db90116b9b1d)
+![WhatsApp Image 2025-10-17 at 20 12 03_4c6eb702](https://github.com/user-attachments/assets/0323c26b-76d8-4406-a33b-94438c91e159)
+![WhatsApp Image 2025-10-17 at 20 12 03_c511b3c7](https://github.com/user-attachments/assets/9c3824b3-bd04-44fa-8596-40aaea42b0b7)
+
 Home Screen
+
 Displays current weather, 5-day forecast, and filtered news based on weather conditions.
 Settings Screen
 Allows users to configure temperature units and news categories with an attractive UI.
